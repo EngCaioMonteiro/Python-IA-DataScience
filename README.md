@@ -7,8 +7,8 @@ Criar um modelo de Inteligência Artificial que consiga analisar os dados de cli
 
 ## Tecnologias Utilizadas
 - [Python 3](https://www.python.org/)
-- [Pandas](https://pandas.pydata.org/): Manipulação e análise de dados.
-- [Scikit-learn](https://scikit-learn.org/): Criação e treinamento de modelos de aprendizado de máquina.
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/)
 
 ## Pré-requisitos
 Certifique-se de ter o Python e as dependências necessárias instaladas. Para instalar os pacotes exigidos, execute o comando abaixo:
